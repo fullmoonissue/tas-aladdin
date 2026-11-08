@@ -15,10 +15,10 @@ My inspirations for this TAS came from :
 
 ### About
 
-The goal of the demoted Retro Achievement named [Sultan's Wealth](https://retroachievements.org/achievement/27230),
+The goal of the demoted Retro Achievement [Sultan's Wealth](https://retroachievements.org/achievement/27230)
 is to get 100.000 points.
 
-In the page comments, the suggested solutions involve farming some points at some specific spots.
+In the comments, the suggested solutions involve farming some points at some specific spots.
 
 I wanted to know if it was possible to reach this amount of points by : 
 - collecting only once the point-yielding items
@@ -220,3 +220,12 @@ Additionally :
 
 Note : as a life or a gem gives 150 points (as an apple slice), they will be trade for an apple slice if a choice
 has to be made.
+
+### Remaining points
+
+Here are the locations of the known remaining points :
+
+- (200 points) Level 5 : At 08:36, this "nest" contains 5 bats but only 4 are killed
+- (250 points) Level 5 : At 08:55, the Shiva Monkey boss is skipped and so is the genie token above that can be grabbed
+only with the rug it seems (I've tried a lot of attempts to get it without, but no success)
+- (450 points) Level 10 : There are 3 hearts grabbable between where the TAS stops and the fight against Jafar
