@@ -134,62 +134,131 @@ Here are the additional tricks / glitches that are written across multiple tasvi
 
 - Level 1 : Agrabah Market
     - Points : 3750
+        - Abu token count : 1
+        - Gem count : 10
+        - Genie heart count : 3
+        - Genie token count : 5
+        - Life count : 2
     - Total points : 3750
 
 - Bonus Level : Abu in Agrabah
     - Points : 750
+        - Gem count : 4
+        - Life count : 1
     - Total points : 4500
 
 - Level 2 : The Desert
     - Points : 5100
+        - Gem count : 10
+        - Genie heart count : 7
+        - Genie token count : 5
+        - Half scarab count : 1
+        - Life count : 2
     - Total points : 9600
 
 - Level 3 : Agrabah Rooftops
     - Points : 7100
+        - Abu token count : 1
+        - Flute count : 6
+        - Gem count : 10
+        - Genie heart count : 9
+        - Genie token count : 5
+        - Half scarab count : 1
+        - Life count : 3
+        - Snake charmer count : 2
     - Total points : 16700
 
 - Bonus Level : Abu in Agrabah
     - Points : 750
+        - Gem count : 4
+        - Life count : 1
     - Total points : 17450
 
 - Level 4 : Sultan's Dungeon
     - Points : 4600
+        - Bat count : 7
+        - Gem count : 10
+        - Genie heart count : 2
+        - Genie token count : 5
+        - Life count : 1
     - Total points : 22050
 
 - Level 5 : Cave of Wonders
     - Points : 10800
+        - Abu token count : 1
+        - Bat count : 23
+        - Gem count : 10
+        - Genie heart count : 16
+        - Genie lamp count : 1
+        - Genie token count : 3
+        - Life count : 2
     - Total points : 32850
 
 - Bonus Level : Abu in the Cave
     - Points : 2000
+        - Bat count : 7
+        - Gem count : 4
     - Total points : 34850
 
 - Level 6 : The Escape
     - Points : 6100
+        - Bat count : 4
+        - Gem count : 10
+        - Genie heart count : 15
+        - Genie token count : 5
+        - Life count : 2
     - Total points : 40950
 
 - Level 7 : Rug Ride
     - Points : 48300
+        - Apple slice count : 308
+        - Gem count : 3
+        - Genie token count : 3
+        - Life count : 6
     - Total points : 89250
 
 - Level 8 : Inside the Lamp
     - Points : 3600
+        - Gem count : 10
+        - Genie token count : 6
+        - Life count : 4
     - Total points : 92850
 
 - Level 9 : Sultan's Palace
     - Points : 4900
+        - Gem count : 10
+        - Genie heart count : 6
+        - Genie token count : 6
+        - Iago count : 1
     - Total points : 97750
 
 - Level 10 : Jafar's Palace
     - Points : 2250
+        - Gem count : 8
+        - Genie heart count : 7
     - Total points : 100000
+
+- Total
+    - Points : 100000
+        - Abu token count : 3
+        - Apple slice count : 308
+        - Bat count : 41
+        - Flute count : 6
+        - Gem count : 103
+        - Genie heart count : 65
+        - Genie lamp count : 1
+        - Genie token count : 43
+        - Half scarab count : 2
+        - Iago count : 1
+        - Life count : 24
+        - Snake charmer count : 2
 
 ### Routing notes
 
 Note 1 : On genie's slot machine, nothing give points, so the goal is to lose the sooner.
 
 Note 2 : Having Jafar as the first selectable choice on genie's slot machine is random. I've been able to manipulate it
-for the level 4 (Jafar directly instead of Apple -> Gem -> Apple -> Jafar by throwing apples and loosing some frames at
+for the level 4 (Jafar directly instead of Apple -> Gem -> Apple -> Jafar by throwing apples and losing some frames at
 the end) but without knowing exactly how the slot machine setup is made. 
 
 Note 3 : On bonus levels with Abu, if no more point-yielding items will appear, an intentional fail will occur before
@@ -218,7 +287,7 @@ Additionally :
 - 1 genie unreachable at rock n°19 (or 2 slices had to be skipped which represents 50 points lost)
 - 1 life unreachable in the end (at rock n°29) (and therefor won't be shown by maxing the number of lives before)
 
-Note : as a life or a gem gives 150 points (as an apple slice), they will be trade for an apple slice if a choice
+Note : as a life or a gem gives 150 points (like an apple slice), they will be trade for an apple slice if a choice
 has to be made.
 
 ### Remaining points
