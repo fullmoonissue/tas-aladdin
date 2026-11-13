@@ -1,6 +1,6 @@
 # TAS Aladdin (Genesis / MD)
 
-## Sultan's Wealth (Retro Achievement) in 18:27
+## Sultan's Wealth (demoted Retro Achievement) in 18:27 (No Duplicate Points)
 
 My inspirations for this TAS came from :
 
@@ -24,7 +24,7 @@ I wanted to know if it was possible to reach this amount of points by :
 - collecting only once the point-yielding items
 - killing only once the point-yielding ennemies
 
-Yes, it is, and it may be TAS-only (especially because of all the apple slices to get in the Rug Ride level).
+Yes, it is, and it may be TAS-only (especially because of all the apple slices to get in the Rug Ride level in one go).
 
 Note : The difficulty is set to `Difficult`.
 
@@ -94,7 +94,7 @@ Some hearts appeared with a bit of backtracking :
 
 When Aladdin has 9 lives, no more appeared in levels (maximum reached).
 
-The issue is that they give points, so fewer lives, fewer points.
+The issue is that they give points (except in slot machine), so maximum reached, fewer points.
 
 That's why, some intentional deaths occur to decrease the amount of lives to then acquire others.
 
@@ -104,7 +104,7 @@ Intentional deaths are done in all levels except the first, the last and in Rug 
 
 When Aladdin has 99 gems, no more appeared in levels (maximum reached).
 
-The issue is that they give points, so fewer gems, fewer points.
+The issue is that they give points (except in slot machine), so maximum reached, fewer points.
 
 That's why, a wish is bought to decrease the amount of gems by 10 to then acquire others.
 
@@ -114,9 +114,10 @@ Note : Buying the wish in level 8 seems the best spot in regard to levels 2 and 
 
 When Aladdin has 99 apples, no more appeared in levels (maximum reached).
 
-The issue is that, in level 7, apple slices give points only if maximum is not reached, so fewer of them, fewer points.
+The issue is that, in level 7 (Rug Ride), apple slices give points only if the maximum of apples
+is not reached, so maximum reached, fewer points.
 
-That's why, in level 6, the maximum of apples at the end of the level has to be less or equals to 22 (as 308 apple
+That's why, in level 6, the maximum of apples at the end of the level has to be less or equals than 22 (as 308 apple
 slices (77 apples) are collected).
 
 ### Tricks / Glitches
@@ -264,31 +265,97 @@ the end) but without knowing exactly how the slot machine setup is made.
 Note 3 : On bonus levels with Abu, if no more point-yielding items will appear, an intentional fail will occur before
 the end of the level.
 
+#### Level 2
+
+- I need to lose a life else there will be no life during the Abu's bonus level (from level 3, Agrabah Rooftops)
+
+- At 03:06, jumping (instead of being on the ground when reaching the hidden peddler) avoids to go high in the air.
+
+#### Level 3
+
+- I need to lose a life else there will be no life during the Abu's bonus level (from level 3, Agrabah Rooftops)
+
+- At 03:33, no shortcut is taken (nor the TAS one or the RTA one) because there are some points on the right of the
+level.
+
+- At 03:40, strangely, I had to go left (to almost the wall) after grabbing the flute to have a rope afterward.
+
+- At 03:51, it's possible to long jump above the pole, but I needed to lose some HP (cf first point).
+
+#### Level 4
+
+- I need to lose a life else the hidden life in this level won't appear (maximum reached).
+
+#### Level 5
+
+- I need to lose 9 lives else all the lives in level 7 (Rug Ride) can't be acquired.
+
+- At 08:05, I do not slash the bat "nest" directly else only 3 of 5 bats will be killed (so fewer points).
+
+- At 08:34, this jump was necessary to avoid the bat killed at 08:38 to be despawned (so fewer points).
+
+- At 08:36, I do not slash the bat "nest" directly else only 3 of 5 bats will be killed (so fewer points), but my slash
+has killed 3 bats then a forth one is killed too thanks to the rock thrown by the Shiva and which has bounced on the
+scimitar.
+
+- At 08:48, to do the tall jump to skip the boss, Aladdin has to decrease his HP to only 2, that's why there are
+multiple hurts from the 2 bats before being killed. Note : There is a quicker way to skip this boss which do not need
+HP decrease ([cf](https://www.speedrun.com/fr-FR/aladdin_genesis/forums/5bj63)).
+
+#### Level 6
+
+- I need to lose a life else all the lives in level 7 (Rug Ride) can't be acquired.
+
 #### Level 7
 
+Legend :
+
+- ungrabbable : apple slice that is "outside" of the "grab perimeter" (too low, almost in lava)
+- unreachable : apple slice / gem / life not reachable as it's "physically" impossible to grab it because of the scroll
+- disappearing : apple slice that appears on the right of the screen but does not reach Aladdin
+
 There are 321 apple slices, minus :
-- 2 (unreachable) at rock n°4
-- 2 (unreachable) at rock n°7
-- 1 (unreachable) at rock n°19
-- 2 (disappearing) at rock n°19
-- 1 (unreachable) at rock n°20
-- 2 (unreachable) at rock n°21
-- 1 (unreachable) at rock n°22
-- 1 (unreachable) at rock n°27
-- 1 (unreachable) at rock n°28
+- 2 (ungrabbable) after rock n°4
+- 2 (ungrabbable) after rock n°7
+- 1 (unreachable) after rock n°19
+- 2 (disappearing) after rock n°19
+- 1 (unreachable) after rock n°20
+- 2 (ungrabbable) after rock n°21
+- 1 (ungrabbable) after rock n°22
+- 1 (unreachable) after rock n°27
+- 1 (unreachable) after rock n°28
 
 Which gives 308 reachable apple slices (= 77 apples).
 
 Additionally :
-- 1 life unreachable at rock n°10
-- 1 gem unreachable at rock n°13
-- 1 life unreachable at rock n°15
-- 1 gem unreachable at rock n°17
-- 1 genie unreachable at rock n°19 (or 2 slices had to be skipped which represents 50 points lost)
-- 1 life unreachable in the end (at rock n°29) (and therefor won't be shown by maxing the number of lives before)
+- 1 life unreachable after rock n°10
+- 1 gem unreachable after rock n°13
+- 1 life unreachable after rock n°15
+- 1 gem unreachable after rock n°17
+- 1 genie unreachable after rock n°19 (or 2 slices had to be skipped which represents 50 points lost)
+- 1 life unreachable in the end (after rock n°29) (and therefor won't be shown by maxing the number of lives before)
 
-Note : as a life or a gem gives 150 points (like an apple slice), they will be trade for an apple slice if a choice
-has to be made.
+Note : as life (or a gem) gives 150 points (like an apple slice), it will be trade for an apple slice if a choice
+has to be made (no need to lose a life afterward).
+
+#### Level 8
+
+- I need to lose 4 lives else all the lives in this level won't appear (maximum reached).
+
+#### Level 9
+
+- At 15:31 : There's another "carpet path" which allows to jump higher towards the rope, but I haven't managed it.
+
+- At 15:38 : Acquiring those items then dying is a shortcut rather than another carpet ride.
+
+- At 16:03 : This guard is not killed voluntarily to lose a life later.
+
+- At 16:34 : A carpet ride is mandatory to continue the level, and so, the carpet ride on the left side of the level
+is faster than the one in the middle of the level (the last one taken), so losing a life is faster.
+
+- At 16:49 : This the only active dodge of a point-yielding item as I had taken it before.
+
+- At 16:52 : Palace skip !
 
 ### Remaining points
 
@@ -297,4 +364,4 @@ Here are the locations of the known remaining points :
 - (200 points) Level 5 : At 08:36, this "nest" contains 5 bats but only 4 are killed
 - (250 points) Level 5 : At 08:55, the Shiva Monkey boss is skipped and so is the genie token above that can be grabbed
 only with the rug it seems (I've tried a lot of attempts to get it without, but no success)
-- (450 points) Level 10 : There are 3 hearts grabbable between where the TAS stops and the fight against Jafar
+- (450 points) Level 10 : There are 3 grabbable hearts between where the TAS stops and the fight against Jafar
