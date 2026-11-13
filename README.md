@@ -9,9 +9,13 @@ My inspirations for this TAS came from :
 - [Forum on src](https://www.speedrun.com/fr-FR/aladdin_genesis/forums)
 - Other various videos (like [this one](https://www.youtube.com/watch?v=uDWAkZPBTmg) for hidden heart & lives)
 
+---
+
 ### Publication
 
 [![](./Thumbnail-Aladdin-Sultan-Wealth-v1.png)](https://www.youtube.com/watch?v=-A52Z8ZELXE)
+
+---
 
 ### About
 
@@ -27,6 +31,8 @@ I wanted to know if it was possible to reach this amount of points by :
 Yes, it is, and it may be TAS-only (especially because of all the apple slices to get in the Rug Ride level in one go).
 
 Note : The difficulty is set to `Difficult`.
+
+---
 
 ### Points
 
@@ -56,6 +62,8 @@ Here are the items / enemies that give points :
 - half scarab (levels 2 & 3)
 - iago (level 9)
 
+---
+
 ### Extra lives
 
 Some lives are just hidden (like the one at the end of the first level), but some others require to idle at a specific
@@ -81,12 +89,16 @@ Some lives will only appear if a backtracking is done. Those are :
 - in level 3, after the second checkpoint
 - in level 4, before encountering the second double chained boulders
 
+---
+
 ### Extra hearts
 
 Some hearts appeared with a bit of backtracking :
 
 - in level 2, after touching the ground near the first checkpoint (5)
 - in level 3, before the first zipline (1)
+
+---
 
 ### Lives / Gems / Apples management
 
@@ -120,6 +132,8 @@ is not reached, so maximum reached, fewer points.
 That's why, in level 6, the maximum of apples at the end of the level has to be less or equals than 22 (as 308 apple
 slices (77 apples) are collected).
 
+---
+
 ### Tricks / Glitches
 
 First, HydeTheLoon has written [a nice guide](https://www.speedrun.com/aladdin_genesis/guides/im7or) mentioning some
@@ -130,6 +144,8 @@ Here are the additional tricks / glitches that are written across multiple tasvi
 - https://tasvideos.org/1734S (ElectroSpecter -> Skidding & Long Jump)
 - https://tasvideos.org/5344S (arandomgameTASer -> Hitbox Sword Extension)
 - https://tasvideos.org/6773S (Flip -> Tall Jumps & Skid preservation using Sword Jumps)
+
+---
 
 ### Tracker
 
@@ -254,6 +270,8 @@ Here are the additional tricks / glitches that are written across multiple tasvi
         - Life count : 24
         - Snake charmer count : 2
 
+---
+
 ### Routing notes
 
 Note 1 : On genie's slot machine, nothing give points, so the goal is to lose the sooner.
@@ -356,6 +374,8 @@ is faster than the one in the middle of the level (the last one taken), so losin
 - At 16:49 : This the only active dodge of a point-yielding item as I had taken it before.
 
 - At 16:52 : Palace skip !
+
+---
 
 ### Remaining points
 
