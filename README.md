@@ -66,8 +66,7 @@ Here are the items / enemies that give points :
 
 ### Extra lives
 
-Some lives are just hidden (like the one at the end of the first level), but some others require to idle at a specific
-spot or to do some backtracking.
+Some lives are just hidden, but some others require to idle at a specific spot or to do some backtracking.
 
 #### Idling at a specific spot
 
@@ -76,9 +75,7 @@ It's not the only one.
 
 [Tako](https://www.youtube.com/watch?v=eiqHDkw8tqs) made a video showing a lot of them.
 
-Note 1 : When one extra-life-in-specific-spot is taken, no more will appear.
-
-Note 2 : In the TAS, I took the one in the first level so the aforementioned "Mickey's life" won't be shown / acquired.
+Note : When one extra-life-in-specific-spot is taken, no more will appear.
 
 #### With backtracking
 
@@ -87,7 +84,7 @@ Some lives will only appear if a backtracking is done. Those are :
 - in level 2, after the first palm tree
 - in level 3, before climbing to the Abu token
 - in level 3, after the second checkpoint
-- in level 4, before encountering the second double chained boulders
+- in level 4, before the first double chained boulders after encountering the second double chained boulders
 
 ---
 
@@ -104,21 +101,21 @@ Some hearts appeared with a bit of backtracking :
 
 #### Lives management
 
-When Aladdin has 9 lives, no more appeared in levels (maximum reached).
+When Aladdin has 9 lives, no more will appear in levels (maximum reached).
 
 The issue is that they give points (except in slot machine), so maximum reached, fewer points.
 
-That's why, some intentional deaths occur to decrease the amount of lives to then acquire others.
+That's why, some intentional deaths occur to decrease the amount of lives to then acquire some others.
 
 Intentional deaths are done in all levels except the first, the last and in Rug Ride.
 
 #### Gems management
 
-When Aladdin has 99 gems, no more appeared in levels (maximum reached).
+When Aladdin has 99 gems, no more will appear in levels (maximum reached).
 
 The issue is that they give points (except in slot machine), so maximum reached, fewer points.
 
-That's why, a wish is bought to decrease the amount of gems by 10 to then acquire others.
+That's why, a wish is bought to decrease the amount of gems by 10 to then acquire some others.
 
 Note : Buying the wish in level 8 seems the best spot in regard to levels 2 and 9 (it would be too late at level 10).
 
@@ -126,8 +123,8 @@ Note : Buying the wish in level 8 seems the best spot in regard to levels 2 and 
 
 When Aladdin has 99 apples, no more appeared in levels (maximum reached).
 
-The issue is that, in level 7 (Rug Ride), apple slices give points only if the maximum of apples
-is not reached, so maximum reached, fewer points.
+The issue is that, in level 7 (Rug Ride), apple slices give points only if the maximum of apples is not reached,
+so maximum reached, fewer points.
 
 That's why, in level 6, the maximum of apples at the end of the level has to be less or equals than 22 (as 308 apple
 slices (77 apples) are collected).
@@ -144,6 +141,9 @@ Here are the additional tricks / glitches that are written across multiple tasvi
 - https://tasvideos.org/1734S (ElectroSpecter -> Skidding & Long Jump)
 - https://tasvideos.org/5344S (arandomgameTASer -> Hitbox Sword Extension)
 - https://tasvideos.org/6773S (Flip -> Tall Jumps & Skid preservation using Sword Jumps)
+
+When Aladdin is slashing with his scimitar, he has a tiny window of invincible frames.
+This glitch is used in some levels but especially in the last one (during the chained boulders path).
 
 ---
 
@@ -282,6 +282,10 @@ the end) but without knowing exactly how the slot machine setup is made.
 
 Note 3 : On bonus levels with Abu, if no more point-yielding items will appear, an intentional fail will occur before
 the end of the level.
+
+#### Level 1
+
+At 00:18, I took the only extra-life-in-specific-spot here (so the "Mickey Mouse's life" in level 2) won't be acquired.
 
 #### Level 2
 
