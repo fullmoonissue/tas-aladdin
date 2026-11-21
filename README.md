@@ -1,19 +1,19 @@
 # TAS Aladdin (Genesis / MD)
 
-## Sultan's Wealth (demoted Retro Achievement) in 18:27 (No Duplicate Points)
+## Sultan's Wealth (demoted Retro Achievement) in 17:31 (No Duplicate Points)
 
 My inspirations for this TAS came from :
 
 - [Flip's TAS Any% run](https://www.youtube.com/watch?v=f-rclR7uxHY)
 - [Levels' maps](https://vgmaps.de/maps/genesis/aladdin)
-- [Forum on src](https://www.speedrun.com/fr-FR/aladdin_genesis/forums)
-- Other various videos (like [this one](https://www.youtube.com/watch?v=uDWAkZPBTmg) for hidden heart & lives)
+- [Forum on src](https://www.speedrun.com/fr-FR/aladdin_genesis/forums) (especially "Alternative Cave boss skip")
+- Other various videos (like [this one](https://www.youtube.com/watch?v=uDWAkZPBTmg) for a hidden heart & some hidden lives)
 
 ---
 
 ### Publication
 
-[![](./Thumbnail-Aladdin-Sultan-Wealth-v1.png)](https://www.youtube.com/watch?v=-A52Z8ZELXE)
+[![](./Thumbnail-Aladdin-Sultan-Wealth-v2.png)](https://www.youtube.com/watch?v=M2LUt8KItWM)
 
 ---
 
@@ -22,11 +22,11 @@ My inspirations for this TAS came from :
 The goal of the demoted Retro Achievement [Sultan's Wealth](https://retroachievements.org/achievement/27230)
 is to get 100.000 points.
 
-In the comments, the suggested solutions involve farming some points at some specific spots.
+In the comments of the RA page, the suggested solutions involve farming some points at some specific spots.
 
 I wanted to know if it was possible to reach this amount of points by : 
-- collecting only once the point-yielding items
-- killing only once the point-yielding ennemies
+- collecting only once the point-yielding items (gems, genie hearts, lives, ...)
+- killing only once the point-yielding ennemies (bats and snake charmers)
 
 Yes, it is, and it may be TAS-only (especially because of all the apple slices to get in the Rug Ride level in one go).
 
@@ -82,7 +82,7 @@ Note : When one extra-life-in-specific-spot is taken, no more will appear.
 Some lives will only appear if a backtracking is done. Those are :
 
 - in level 2, after the first palm tree
-- in level 3, before climbing to the Abu token
+- in level 3, before "zig-zag climbing" to the Abu token
 - in level 3, after the second checkpoint
 - in level 4, before the first double chained boulders after encountering the second double chained boulders
 
@@ -90,9 +90,9 @@ Some lives will only appear if a backtracking is done. Those are :
 
 ### Extra hearts
 
-Some hearts appeared with a bit of backtracking :
+Some hearts will appear after a bit of backtracking :
 
-- in level 2, after touching the ground near the first checkpoint (5)
+- in level 2, after touching the ground before the first checkpoint (5)
 - in level 3, before the first zipline (1)
 
 ---
@@ -107,7 +107,7 @@ The issue is that they give points (except in slot machine), so maximum reached,
 
 That's why, some intentional deaths occur to decrease the amount of lives to then acquire some others.
 
-Intentional deaths are done in all levels except the first, the last and in Rug Ride.
+Intentional deaths are done in levels 5, 6 and 8 because a death respawns close to a checkpoint (or the level's start).
 
 #### Gems management
 
@@ -115,7 +115,7 @@ When Aladdin has 99 gems, no more will appear in levels (maximum reached).
 
 The issue is that they give points (except in slot machine), so maximum reached, fewer points.
 
-That's why, a wish is bought to decrease the amount of gems by 10 to then acquire some others.
+That's why, a unique wish is bought to decrease the amount of gems by 10 to then acquire some others.
 
 Note : Buying the wish in level 8 seems the best spot in regard to levels 2 and 9 (it would be too late at level 10).
 
@@ -143,26 +143,24 @@ Here are the additional tricks / glitches that are written across multiple tasvi
 - https://tasvideos.org/6773S (Flip -> Tall Jumps & Skid preservation using Sword Jumps)
 
 When Aladdin is slashing with his scimitar, he has a tiny window of invincible frames.
-This glitch is used in some levels but especially in the last one (during the chained boulders path).
+This glitch is used in some levels but especially in the last one (during the path with chained boulders).
 
 ---
 
 ### Tracker
 
 - Level 1 : Agrabah Market
-    - Points : 3750
+    - Points : 3450
         - Abu token count : 1
         - Gem count : 10
         - Genie heart count : 3
         - Genie token count : 5
-        - Life count : 2
-    - Total points : 3750
+    - Total points : 3450
 
 - Bonus Level : Abu in Agrabah
-    - Points : 750
+    - Points : 600
         - Gem count : 4
-        - Life count : 1
-    - Total points : 4500
+    - Total points : 4050
 
 - Level 2 : The Desert
     - Points : 5100
@@ -171,7 +169,7 @@ This glitch is used in some levels but especially in the last one (during the ch
         - Genie token count : 5
         - Half scarab count : 1
         - Life count : 2
-    - Total points : 9600
+    - Total points : 9150
 
 - Level 3 : Agrabah Rooftops
     - Points : 7100
@@ -183,13 +181,12 @@ This glitch is used in some levels but especially in the last one (during the ch
         - Half scarab count : 1
         - Life count : 3
         - Snake charmer count : 2
-    - Total points : 16700
+    - Total points : 16250
 
 - Bonus Level : Abu in Agrabah
-    - Points : 750
+    - Points : 600
         - Gem count : 4
-        - Life count : 1
-    - Total points : 17450
+    - Total points : 16850
 
 - Level 4 : Sultan's Dungeon
     - Points : 4600
@@ -198,33 +195,33 @@ This glitch is used in some levels but especially in the last one (during the ch
         - Genie heart count : 2
         - Genie token count : 5
         - Life count : 1
-    - Total points : 22050
+    - Total points : 21450
 
 - Level 5 : Cave of Wonders
-    - Points : 10800
+    - Points : 11000
         - Abu token count : 1
-        - Bat count : 23
+        - Bat count : 24
         - Gem count : 10
         - Genie heart count : 16
         - Genie lamp count : 1
         - Genie token count : 3
         - Life count : 2
-    - Total points : 32850
+    - Total points : 32450
 
 - Bonus Level : Abu in the Cave
     - Points : 2000
         - Bat count : 7
         - Gem count : 4
-    - Total points : 34850
+    - Total points : 34450
 
 - Level 6 : The Escape
-    - Points : 6100
-        - Bat count : 4
+    - Points : 5900
+        - Bat count : 3
         - Gem count : 10
         - Genie heart count : 15
         - Genie token count : 5
         - Life count : 2
-    - Total points : 40950
+    - Total points : 40350
 
 - Level 7 : Rug Ride
     - Points : 48300
@@ -232,14 +229,14 @@ This glitch is used in some levels but especially in the last one (during the ch
         - Gem count : 3
         - Genie token count : 3
         - Life count : 6
-    - Total points : 89250
+    - Total points : 88650
 
 - Level 8 : Inside the Lamp
     - Points : 3600
         - Gem count : 10
         - Genie token count : 6
         - Life count : 4
-    - Total points : 92850
+    - Total points : 92250
 
 - Level 9 : Sultan's Palace
     - Points : 4900
@@ -247,12 +244,13 @@ This glitch is used in some levels but especially in the last one (during the ch
         - Genie heart count : 6
         - Genie token count : 6
         - Iago count : 1
-    - Total points : 97750
+    - Total points : 97150
 
 - Level 10 : Jafar's Palace
-    - Points : 2250
+    - Points : 2850
         - Gem count : 8
-        - Genie heart count : 7
+        - Genie heart count : 10
+        - Life count : 1
     - Total points : 100000
 
 - Total
@@ -262,12 +260,12 @@ This glitch is used in some levels but especially in the last one (during the ch
         - Bat count : 41
         - Flute count : 6
         - Gem count : 103
-        - Genie heart count : 65
+        - Genie heart count : 68
         - Genie lamp count : 1
         - Genie token count : 43
         - Half scarab count : 2
         - Iago count : 1
-        - Life count : 24
+        - Life count : 21
         - Snake charmer count : 2
 
 ---
@@ -276,65 +274,48 @@ This glitch is used in some levels but especially in the last one (during the ch
 
 Note 1 : On genie's slot machine, nothing give points, so the goal is to lose the sooner.
 
-Note 2 : Having Jafar as the first selectable choice on genie's slot machine is random. I've been able to manipulate it
-for the level 4 (Jafar directly instead of Apple -> Gem -> Apple -> Jafar by throwing apples and losing some frames at
-the end) but without knowing exactly how the slot machine setup is made. 
+Note 2 : Having Jafar as the first selectable choice on genie's slot machine is random. I've been able to "manipulate"
+it by throwing apples during the levels but without knowing exactly how the slot machine setup is made.
 
-Note 3 : On bonus levels with Abu, if no more point-yielding items will appear, an intentional fail will occur before
-the end of the level.
-
-#### Level 1
-
-At 00:18, I took the only extra-life-in-specific-spot here (so the "Mickey Mouse's life" in level 2) won't be acquired.
+Note 3 : On bonus levels with Abu, an intentional fail will occur before the end of the level when enough points were
+collected.
 
 #### Level 2
 
-- I need to lose a life else there will be no life during the Abu's bonus level (from level 3, Agrabah Rooftops)
-
-- At 03:06, jumping (instead of being on the ground when reaching the hidden peddler) avoids to go high in the air.
+- At 02:39, jumping (instead of being on the ground when reaching the hidden peddler) avoids to go high in the air.
 
 #### Level 3
 
-- I need to lose a life else there will be no life during the Abu's bonus level (from level 3, Agrabah Rooftops)
-
-- At 03:33, no shortcut is taken (nor the TAS one or the RTA one) because there are some points on the right of the
+- At 03:09, no shortcut is taken (nor the TAS one or the RTA one) because there are some points on the right of the
 level.
-
-- At 03:40, strangely, I had to go left (to almost the wall) after grabbing the flute to have a rope afterward.
-
-- At 03:51, it's possible to long jump above the pole, but I needed to lose some HP (cf first point).
 
 #### Level 4
 
-- I need to lose a life else the hidden life in this level won't appear (maximum reached).
+- At 05:54, during the TAS, I was able to have no more sound here for the rest of the level. As I've optimized this
+level afterward, I hadn't anymore this bug. Possible clue : the two skeletons may have exploded almost at the same time.
+
+- At 06:19, this is a "Tall Jump" (cf Tricks / Glitches).
 
 #### Level 5
 
-- I need to lose 9 lives else all the lives in level 7 (Rug Ride) can't be acquired.
+- At 07:10 (and 07:40), I do not slash the bat "nest" directly else only 3 of 5 bats will be killed (so fewer points).
 
-- At 08:05, I do not slash the bat "nest" directly else only 3 of 5 bats will be killed (so fewer points).
+- At 07:55, the "Alternative Cave boss skip" (cf Inspirations).
 
-- At 08:34, this jump was necessary to avoid the bat killed at 08:38 to be despawned (so fewer points).
-
-- At 08:36, I do not slash the bat "nest" directly else only 3 of 5 bats will be killed (so fewer points), but my slash
-has killed 3 bats then a forth one is killed too thanks to the rock thrown by the Shiva and which has bounced on the
-scimitar.
-
-- At 08:48, to do the tall jump to skip the boss, Aladdin has to decrease his HP to only 2, that's why there are
-multiple hurts from the 2 bats before being killed. Note : There is a quicker way to skip this boss which do not need
-HP decrease ([cf](https://www.speedrun.com/fr-FR/aladdin_genesis/forums/5bj63)).
+- At 07:59, I need to lose 9 lives else all the lives in level 7 (Rug Ride) can't be acquired.
 
 #### Level 6
 
-- I need to lose a life else all the lives in level 7 (Rug Ride) can't be acquired.
+- At 09:31, I need to lose a life else all the lives in level 7 (Rug Ride) can't be acquired.
 
 #### Level 7
 
 Legend :
 
-- ungrabbable : apple slice that is "outside" of the "grab perimeter" (too low, almost in lava)
-- unreachable : apple slice / gem / life not reachable as it's "physically" impossible to grab it because of the scroll
-- disappearing : apple slice that appears on the right of the screen but does not reach Aladdin
+- ungrabbable : apple slice that is "outside" of the "grabbable perimeter" (too low, almost in lava)
+- unreachable : apple slice / gem / life not reachable because of the scroll speed and where the previous item was
+grabbed
+- disappearing : apple slice that appears on the right of the screen but does not reach Aladdin (despawned just before)
 
 There are 321 apple slices, minus :
 - 2 (ungrabbable) after rock n°4
@@ -357,35 +338,36 @@ Additionally :
 - 1 genie unreachable after rock n°19 (or 2 slices had to be skipped which represents 50 points lost)
 - 1 life unreachable in the end (after rock n°29) (and therefor won't be shown by maxing the number of lives before)
 
-Note : as life (or a gem) gives 150 points (like an apple slice), it will be trade for an apple slice if a choice
-has to be made (no need to lose a life afterward).
-
 #### Level 8
 
-- I need to lose 4 lives else all the lives in this level won't appear (maximum reached).
+- At 12:54, I need to lose 4 lives else all the lives in this level won't appear (maximum reached).
+
+- At 13:10, wish bought else some gems won't appear in level 10 (maximum reached).
 
 #### Level 9
 
-- At 15:31 : There's another "carpet path" which allows to jump higher towards the rope, but I haven't managed it.
+- At 14:18 : There's another "carpet path" which allows to jump higher towards the rope, but I haven't managed it.
 
-- At 15:38 : Acquiring those items then dying is a shortcut rather than another carpet ride.
+- At 14:30 : Acquiring those items then dying is a shortcut rather than another carpet ride.
 
-- At 16:03 : This guard is not killed voluntarily to lose a life later.
+- At 14:55 : This guard is not killed voluntarily to lose a life later.
 
-- At 16:34 : A carpet ride is mandatory to continue the level, and so, the carpet ride on the left side of the level
+- At 15:26 : A carpet ride is mandatory to continue the level, and so, the carpet ride on the left side of the level
 is faster than the one in the middle of the level (the last one taken), so losing a life is faster.
 
-- At 16:49 : This the only active dodge of a point-yielding item as I had taken it before.
+- At 15:40 : This is the only active dodge of a point-yielding item as I had taken it before.
 
-- At 16:52 : Palace skip !
+- At 15:43 : Palace skip !
 
 ---
 
 ### Remaining points
 
-Here are the locations of the known remaining points :
+Here are the locations of the known remaining (900) points :
 
-- (200 points) Level 5 : At 08:36, this "nest" contains 5 bats but only 4 are killed
-- (250 points) Level 5 : At 08:55, the Shiva Monkey boss is skipped and so is the genie token above that can be grabbed
+- (150 points) Level 1 : At 01:03, the hidden life above the peddler is not taken (too slow to get it)
+- (150 points) First level with Abu : At 01:35, the life is skipped (too slow to get it)
+- (150 points) Second level with Abu : At 05:15, the life is skipped (too slow to get it)
+- (250 points) Level 5 : At 07:55, the Shiva Monkey boss is skipped and so is the genie token above that can be grabbed
 only with the rug it seems (I've tried a lot of attempts to get it without, but no success)
-- (450 points) Level 10 : There are 3 grabbable hearts between where the TAS stops and the fight against Jafar
+- (200 points) Level 6 : At 10:20, this bat is not killed to long jump to the upper path (faster path)
