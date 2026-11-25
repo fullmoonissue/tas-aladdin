@@ -26,7 +26,7 @@ In the comments of the RA page, the suggested solutions involve farming some poi
 
 I wanted to know if it was possible to reach this amount of points by : 
 - collecting only once the point-yielding items (gems, genie hearts, lives, ...)
-- killing only once the point-yielding ennemies (bats and snake charmers)
+- killing only once the point-yielding enemies (bats and snake charmers)
 
 Yes, it is, and it may be TAS-only (especially because of all the apple slices to get in the Rug Ride level in one go).
 
@@ -346,8 +346,6 @@ Additionally :
 
 #### Level 9
 
-- At 14:18 : There's another "carpet path" which allows to jump higher towards the rope, but I haven't managed it.
-
 - At 14:30 : Acquiring those items then dying is a shortcut rather than another carpet ride.
 
 - At 14:55 : This guard is not killed voluntarily to lose a life later.
@@ -357,7 +355,7 @@ is faster than the one in the middle of the level (the last one taken), so losin
 
 - At 15:40 : This is the only active dodge of a point-yielding item as I had taken it before.
 
-- At 15:43 : Palace skip !
+- At 15:43 : Palace skip!
 
 ---
 
